@@ -1,0 +1,5 @@
+CREATE TABLE sequence
+(table_name VARCHAR(30) PRIMARY KEY,
+last_seq_id NUMBER(8) NOT NULL);
+INSERT INTO sequence VALUES ('PLAY_LOG', 0);
+INSERT INTO sequence VALUES ('REQUEST',0);

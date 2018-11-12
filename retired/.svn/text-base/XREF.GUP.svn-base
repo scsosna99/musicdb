@@ -1,0 +1,12 @@
+$'echo Dropping table ARTIST_XREF...';
+drop table artist_xref;
+$'echo 'Creating table ARTIST_XREF...';
+create table artist_xref (
+	cd_nbr     integer not null,
+	song_nbr   integer,
+	artist_nbr integer not null);
+$'echo Loading data for table ARTIST_XREF...';
+@xref1.dat
+@xref2.dat
+$'echo Creating index for table ARTIST_XREF...';
+create unique index artist_xref_0 on artist_xref (cd_nbr, song_nbr, artist_nbr);

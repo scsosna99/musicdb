@@ -1,0 +1,20 @@
+INSERT INTO song VALUES (114, 1, 'Allegro', '05:49', NULL);
+INSERT INTO song VALUES (114, 2, 'Romanze (Andante)', '05:55', NULL);
+INSERT INTO song VALUES (114, 3, 'Menuett (Allegretto)', '02:12', NULL);
+INSERT INTO song VALUES (114, 4, 'Rondo (Allegro)', '03:51', NULL);
+INSERT INTO song VALUES (114, 5, 'Minuet In G', '02:45', NULL);
+INSERT INTO song VALUES (114, 6, 'Canon', '04:42', NULL);
+INSERT INTO song VALUES (114, 7, 'Adagio In G Minor', '09:16', NULL);
+INSERT INTO song VALUES (114, 8, 'Serenade', '03:23', NULL);
+INSERT INTO song VALUES (114, 9, 'Minuet/Violin Concerto In A Minor', '04:04', NULL);
+INSERT INTO song VALUES (114, 10, 'Allegro', '03:15', NULL);
+INSERT INTO song VALUES (114, 11, 'Largo', '02:35', NULL);
+INSERT INTO song VALUES (114, 12, 'Presto', '02:19', NULL);
+INSERT INTO song VALUES (747, 1, 'Solo te Echarn un Medio', '05:44', NULL);
+INSERT INTO song VALUES (747, 2, 'Por Romper el Coco', '06:04', NULL);
+INSERT INTO song VALUES (747, 3, 'Feliz Cumpeleanos', '06:19', NULL);
+INSERT INTO song VALUES (747, 4, 'Esta Noche', '06:17', NULL);
+INSERT INTO song VALUES (747, 5, 'Tres Dias', '07:03', NULL);
+INSERT INTO song VALUES (747, 6, 'La Comparsa', '04:57', NULL);
+INSERT INTO song VALUES (747, 7, 'Babalu Aye', '14:00', NULL);
+

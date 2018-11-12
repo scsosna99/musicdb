@@ -1,0 +1,70 @@
+                       Table "public.cd"
+       Column        |            Type             | Modifiers 
+---------------------+-----------------------------+-----------
+ cd_seq_id           | integer                     | not null
+ name                | character varying(60)       | not null
+ artist_seq_id       | integer                     | not null
+ label_code          | character varying(3)        | not null
+ label_id            | character varying(20)       | not null
+ song_qty            | integer                     | not null
+ total_time          | character varying(5)        | not null
+ code_1              | character varying(3)        | 
+ genre_seq_id        | integer                     | not null
+ allmusic_url        | character varying(256)      | 
+ purchase_url        | character varying(256)      | 
+ last_played_on_date | timestamp without time zone | 
+ amazon_asin_code    | character(10)               | 
+Indexes:
+    "cd_pkey" PRIMARY KEY, btree (cd_seq_id)
+    "cd_i_01" btree (name)
+    "cd_i_02" btree (artist_seq_id)
+    "cd_i_03" btree (label_code)
+    "cd_i_04" btree (genre_seq_id)
+Foreign-key constraints:
+    "cd_artist_seq_id_fkey" FOREIGN KEY (artist_seq_id) REFERENCES artist(artist_seq_id)
+    "cd_fk_01" FOREIGN KEY (artist_seq_id) REFERENCES artist(artist_seq_id)
+    "cd_fk_02" FOREIGN KEY (label_code) REFERENCES cd_label(label_code)
+    "cd_fk_03" FOREIGN KEY (genre_seq_id) REFERENCES genre(genre_seq_id)
+    "cd_genre_seq_id_fkey" FOREIGN KEY (genre_seq_id) REFERENCES genre(genre_seq_id)
+    "cd_label_code_fkey" FOREIGN KEY (label_code) REFERENCES cd_label(label_code)
+Referenced by:
+    TABLE "request_log" CONSTRAINT "request_log_cd_seq_id_fkey" FOREIGN KEY (cd_seq_id) REFERENCES cd(cd_seq_id)
+    TABLE "request_log" CONSTRAINT "request_log_fk_02" FOREIGN KEY (cd_seq_id) REFERENCES cd(cd_seq_id)
+    TABLE "song" CONSTRAINT "song_cd_seq_id_fkey" FOREIGN KEY (cd_seq_id) REFERENCES cd(cd_seq_id)
+    TABLE "song" CONSTRAINT "song_fk_01" FOREIGN KEY (cd_seq_id) REFERENCES cd(cd_seq_id)
+
+                       Table "public.cd"
+       Column        |            Type             | Modifiers 
+---------------------+-----------------------------+-----------
+ cd_seq_id           | integer                     | not null
+ name                | character varying(60)       | not null
+ artist_seq_id       | integer                     | not null
+ label_code          | character varying(3)        | not null
+ label_id            | character varying(20)       | not null
+ song_qty            | integer                     | not null
+ total_time          | character varying(5)        | not null
+ code_1              | character varying(3)        | 
+ genre_seq_id        | integer                     | not null
+ allmusic_url        | character varying(256)      | 
+ purchase_url        | character varying(256)      | 
+ last_played_on_date | timestamp without time zone | 
+ amazon_asin_code    | character(10)               | 
+Indexes:
+    "cd_pkey" PRIMARY KEY, btree (cd_seq_id)
+    "cd_i_01" btree (name)
+    "cd_i_02" btree (artist_seq_id)
+    "cd_i_03" btree (label_code)
+    "cd_i_04" btree (genre_seq_id)
+Foreign-key constraints:
+    "cd_artist_seq_id_fkey" FOREIGN KEY (artist_seq_id) REFERENCES artist(artist_seq_id)
+    "cd_fk_01" FOREIGN KEY (artist_seq_id) REFERENCES artist(artist_seq_id)
+    "cd_fk_02" FOREIGN KEY (label_code) REFERENCES cd_label(label_code)
+    "cd_fk_03" FOREIGN KEY (genre_seq_id) REFERENCES genre(genre_seq_id)
+    "cd_genre_seq_id_fkey" FOREIGN KEY (genre_seq_id) REFERENCES genre(genre_seq_id)
+    "cd_label_code_fkey" FOREIGN KEY (label_code) REFERENCES cd_label(label_code)
+Referenced by:
+    TABLE "request_log" CONSTRAINT "request_log_cd_seq_id_fkey" FOREIGN KEY (cd_seq_id) REFERENCES cd(cd_seq_id)
+    TABLE "request_log" CONSTRAINT "request_log_fk_02" FOREIGN KEY (cd_seq_id) REFERENCES cd(cd_seq_id)
+    TABLE "song" CONSTRAINT "song_cd_seq_id_fkey" FOREIGN KEY (cd_seq_id) REFERENCES cd(cd_seq_id)
+    TABLE "song" CONSTRAINT "song_fk_01" FOREIGN KEY (cd_seq_id) REFERENCES cd(cd_seq_id)
+

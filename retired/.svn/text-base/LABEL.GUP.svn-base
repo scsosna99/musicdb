@@ -1,0 +1,10 @@
+$'echo Dropping table CD_LABEL...';
+drop table cd_label;
+$'echo Creating table CD_LABEL...';
+create table cd_label (
+	label_cd char(3) not null,
+	label_nm char(35) not null);
+$'echo Creating index for table CD_LABEL...';
+create unique index index_0 on cd_label (label_cd);
+$'echo Loading data for table CD_LABEL...';
+run label.dat;

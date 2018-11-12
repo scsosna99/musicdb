@@ -1,0 +1,12 @@
+$'echo Dropping table ARTIST...';
+drop table artist;
+$'echo Creating table ARTIST...';
+create table artist (
+	artist_nbr integer  not null,
+	last_nm    char(30) not null,
+	first_nm   char(30));
+$'echo Creating indices for table; ARTIST...';
+create unique index artist_0 on artist (artist_nbr);
+create unique index artist_1 on artist (last_nm, first_nm);
+$'echo Loading data for table ARTISTS...';
+run artist.dat;
