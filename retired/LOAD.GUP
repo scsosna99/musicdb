@@ -1,8 +1,0 @@
-set echo off;
-run artist.gup;
-run cd.gup;
-run label.gup;
-commit;
-run song.gup;
-remark run xref.gup;
-commit;

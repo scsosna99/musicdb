@@ -1,8 +1,0 @@
-$'echo Dropping table LOG...';
-drop table log;
-$'echo Creating table LOG...';
-create table log (
-	play_date date    not null,
-	seq_nbr   integer not null,
-	cd_nbr    integer not null,
-	song_nbr  integer not null);
