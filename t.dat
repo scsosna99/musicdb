@@ -374,3 +374,18 @@ insert into song values (1763, 7, 'Soulful Rights, Soulful Days', '06:13', NULL)
 insert into song values (1763, 8, 'It''s Not My Cross To Bear', '07:44', NULL);
 insert into song values (1763, 9, 'Fractured', '05:07', NULL);
 insert into song values (1763, 10, 'Evening Wore On..., The', '06:51', NULL);
+insert into song values (1936, 1, 'Paper Sun', '04:14', NULL);
+insert into song values (1936, 2, 'Hole in My Shoe', '03:02', NULL);
+insert into song values (1936, 3, 'Heaven Is in Your Mind', '04:14', NULL);
+insert into song values (1936, 4, 'Dear Mr. Fantasy', '05:37', NULL);
+insert into song values (1936, 5, 'You Can All Join In', '03:37', NULL);
+insert into song values (1936, 6, 'Feelin'' Alright', '04:18', NULL);
+insert into song values (1936, 7, 'Pearly Queen', '04:20', NULL);
+insert into song values (1936, 8, 'Forty Thousand Headmen', '03:16', NULL);
+insert into song values (1936, 9, 'Shanghai Noodle Factory', '05:06', NULL);
+insert into song values (1936, 10, 'Glad', '06:57', NULL);
+insert into song values (1936, 11, 'Freedom Rider', '05:29', NULL);
+insert into song values (1936, 12, 'Empty Pages', '04:34', NULL);
+insert into song values (1936, 13, 'John Barleycorn', '06:22', NULL);
+insert into song values (1936, 14, 'Rock and Roll Stew', '04:26', NULL);
+insert into song values (1936, 15, 'Low Spark of High Heeled Boys, The', '11:44', NULL);

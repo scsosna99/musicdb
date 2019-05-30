@@ -1225,9 +1225,9 @@ insert into cd values (1224, 'FZ:OZ (Disc 1)', 1, 'VNR', 'VR 2002-1', 13, '73:30
 insert into cd values (1225, 'FZ:OZ (Disc 2)', 1, 'VNR', 'VR 2002-1', 14, '73:11', NULL, 18);
 insert into cd values (1226, 'Night At The Met, A', 2331, 'LEG', 'CK 40541', 16, '53:04', NULL, 6);
 insert into cd values (1227, 'Dreamful of Blues', 2330, 'LBR', '<none>', 6, '21:38', NULL, 3);
-insert into cd values (1228, 'Cafe Tacuba', 2323, 'WEA', '77241-2', 13, '39:35', NULL, 13);
-insert into cd values (1229, 'Re', 2323, 'WEA', '96784-2', 20, '59:43', NULL, 13);
-insert into cd values (1230, 'Avalancha de Exitos', 2323, 'WEA', '16718-2', 8, '31:29', 'AAD', 13);
+insert into cd values (1228, 'Cafe Tacuba', 2323, 'WEL', '77241-2', 13, '39:35', NULL, 13);
+insert into cd values (1229, 'Re', 2323, 'WEL', '96784-2', 20, '59:43', NULL, 13);
+insert into cd values (1230, 'Avalancha de Exitos', 2323, 'WEL', '16718-2', 8, '31:29', 'AAD', 13);
 insert into cd values (1231, 'MTQB..Music To Quilt By..!?', 2332, 'XXX', 'NMM-10', 14, '56:55', NULL, 18);
 insert into cd values (1232, 'Little Things, The', 2333, 'RJR', '<none>', 13, '40:01', NULL, 3);
 insert into cd values (1233, 'Room For Squares', 2334, 'ACL', 'CK 85293', 14, '54:14', NULL, 18);
