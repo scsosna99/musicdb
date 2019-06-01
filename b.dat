@@ -1151,8 +1151,8 @@ insert into song values (1926, 14, 'Hunting Tigers of in Indiah', '03:06', NULL)
 insert into song values (1926, 15, 'Suspicion', '03:31', NULL);
 insert into song values (1926, 16, 'Mr. Slater''s Parrot', '02:29', NULL);
 insert into song values (1926, 17, 'Laughing Blues', '03:45', NULL);
-insert into song values (1926, 18, 'Narcissus', '00:21', NULL)
-insert into song values (1927, 1, 'I'm the Urban Spaceman', '02:22', NULL);
+insert into song values (1926, 18, 'Narcissus', '00:21', NULL);
+insert into song values (1927, 1, 'I''m the Urban Spaceman', '02:22', NULL);
 insert into song values (1927, 2, 'Bad Blood', '05:15', NULL);
 insert into song values (1927, 3, 'I Left My Heard in San Francisco', '01:02', NULL);
 insert into song values (1927, 4, 'Tent', '03:11', NULL);
@@ -1189,3 +1189,25 @@ insert into song values (1935, 17, 'Guitar Man, The', '03:44', NULL);
 insert into song values (1935, 18, 'Fancy Dancer', '03:30', NULL);
 insert into song values (1935, 19, 'She''s the Only One', '02:58', NULL);
 insert into song values (1935, 20, 'Lost Without Your Love', '02:53', NULL);
+insert into song values (1956, 1, 'Look Back in Anger', '03:07', NULL);
+insert into song values (1956, 2, '"Heroes"', '04:53', NULL);
+insert into song values (1956, 3, 'What in the World', '03:44', NULL);
+insert into song values (1956, 4, 'Golden Years', '03:31', NULL);
+insert into song values (1956, 5, 'Fashion', '02:43', NULL);
+insert into song values (1956, 6, 'Let''s Dance', '04:34', NULL);
+insert into song values (1956, 7, 'Breaking Glass', '03:00', NULL);
+insert into song values (1956, 8, 'Life on Mars?', '04:07', NULL);
+insert into song values (1956, 9, 'Sorrow', '02:49', NULL);
+insert into song values (1956, 10, 'Cat People (Putting Out Fire)', '04:20', NULL);
+insert into song values (1956, 11, 'China Girl', '05:27', NULL);
+insert into song values (1956, 12, 'Scary Monsters (And Super Creeps)', '03:42', NULL);
+insert into song values (1956, 13, 'Rebel Rebel', '02:24', NULL);
+insert into song values (1957, 1, 'White Light / White Heat', '05:36', NULL);
+insert into song values (1957, 2, 'Station to Station', '08:58', NULL);
+insert into song values (1957, 3, 'Cracked Actor', '03:58', NULL);
+insert into song values (1957, 4, 'Ashes to Ashes', '03:51', NULL);
+insert into song values (1957, 5, 'Space Oddity / Band Introduction', '06:32', NULL);
+insert into song values (1957, 6, 'Young Americans', '05:25', NULL);
+insert into song values (1957, 7, 'Fame', '05:36', NULL);
+insert into song values (1957, 8, 'Modern Love', '03:54', NULL);
+

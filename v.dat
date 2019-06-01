@@ -1290,6 +1290,6 @@ insert into song values (1924, 3, 'Punto Cubano', '06:18', NULL);
 insert into song values (1924, 4, 'My Funny Valentine', '05:37', NULL);
 insert into song values (1924, 5, 'To Bud Powell', '10:45', NULL);
 insert into song values (1924, 6, 'Drume Negrita', '05:31', NULL);
-insert into song values (1924, 7, 'Como Traigo la Yuca', ;06:36', NULL);
+insert into song values (1924, 7, 'Como Traigo la Yuca', '06:36', NULL);
 insert into song values (1924, 8, 'Ponie la Clave', '09:36', NULL);
 insert into song values (1924, 9, 'Encore-Lorraine''s Habanera', '03:50', NULL);
