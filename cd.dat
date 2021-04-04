@@ -1,4 +1,3 @@
-insert into cd values (1463, 'Bottleneck, Lawrence, KS 02/13/2005 (Disc 1)', 2760, 'BTE', '<none>', 7, '69:00', 'ADD', 12);
 insert into cd values (1464, 'Bottleneck, Lawrence, KS 02/13/2005 (Disc 2)', 2760, 'BTE', '<none>', 7, '63:51', 'ADD', 12); 
 insert into cd values (1465, 'Gypsy Tea Room Ballroom, Dallas, TX 02/03/2005 (Disc 1)', 2761, 'BTE', '<none>', 14, '81:59', 'ADD', 7);
 insert into cd values (1466, 'Gypsy Tea Room Ballroom, Dallas, TX 02/03/2005 (Disc 2)', 2762, 'BTE', '<none>', 18, '64:57', 'ADD', 7);
@@ -503,3 +502,22 @@ insert into cd values (1963, 'Reise, Reise', 3581, 'RUN', '80003693-02', 11, '40
 insert into cd values (1964, 'Sehnsucht', 3581, 'MSL', '314-539 901-2', 12, '48:18', NULL, 18);
 insert into cd values (1965, 'Herzeleid', 3581, 'MMO', '5291602', 11, '49:28', NULL, 18);
 insert into cd values (1966, 'Best Collection (1978-1987)', 3582, 'VMI', 'VICL-5107', 17, '63:55', NULL, 18);
+insert into cd values (1967, 'When We All Fall Asleep, Where Do We Go?', 3583, 'DRI', '7742762', 14, '42:56', NULL, 18);
+insert into cd values (1968, 'Norman Fucking Rockwell!', 3584, 'INT', 'B0030878-02', 14, '68:22', NULL, 18);
+insert into cd values (1969, 'Magdalene', 3585, 'YTR', 'YT 191CD', 9, '38:53', NULL, 18);
+insert into cd values (1970, 'Father of the Bride', 3596, 'COL', '40318', 18, '58:03', NULL, 18);
+insert into cd values (1971, 'Tyler, The Creator', 3597, 'COL', '19075965202', 12, '43:33', NULL, 18);
+insert into cd values (1972, 'Road Tapes, Venue #2 (Disc 1)', 1, 'VNR', '2013-1', 13, '72:52', NULL, 18);
+insert into cd values (1973, 'Road Tapes, Venue #2 (Disc 2)', 1, 'VNR', '2013-1', 6, '67:32', NULL, 18);
+insert into cd values (1974, 'Road Tapes, Venue #3 (Disc 1)', 1, 'VNR', '2016-1', 16, '70:27', NULL, 18);
+insert into cd values (1975, 'Road Tapes, Venue #3 (Disc 2)', 1, 'VNR', '2016-1', 12, '75:55', NULL, 18);
+insert into cd values (1976, 'Halloween 1973 (Disc 1)', 1, 'ZAP', '114', 16, '62:13', NULL, 18);
+insert into cd values (1977, 'Halloween 1973 (Disc 2)', 1, 'ZAP', '114', 11, '67:57', NULL, 18);
+insert into cd values (1978, 'Halloween 1973 (Disc 3)', 1, 'ZAP', '114', 11, '75:45', NULL, 18);
+insert into cd values (1979, 'Halloween 1973 (Disc 4)', 1, 'ZAP', '114', 12, '72:28', NULL, 18);
+insert into cd values (1980, 'Born To Die', 3584, 'INT', 'B0016425-02', 12, '49:28', NULL, 18);
+insert into cd values (1981, 'Paradise', 3584, 'INT', 'B0017667-02', 8, '33:03', NULL, 18);
+insert into cd values (1982, 'Ultraviolence', 3584, 'INT', 'B0020950-02', 11, '51:28', NULL, 18);
+insert into cd values (1983, 'Lust For Life', 3584, 'INT', 'B0026668-02', 16, '72:05', NULL, 18);
+insert into cd values (1984, 'Honeymoon', 3584, 'INT', 'B0023750-02', 14, '65:09', NULL, 18);
+insert into cd values (1985, 'don''t smile at me', 3583, 'INT', 'B000030752-02', 9, '00:00', NULL, 18);

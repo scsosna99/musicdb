@@ -596,3 +596,6 @@ insert into cd_label values ('HDR', 'Hoodoo Records');
 insert into cd_label values ('MSL', 'Motor / Slash');
 insert into cd_label values ('MMO', 'Mercury / Iis / Motor');
 insert into cd_label values ('VMI', 'Victor Musical Industries');
+insert into cd_label values ('DRI', 'Darkroom/Interscope');
+insert into cd_label values ('YTR', 'Young Turn Recordings');
+insert into cd_label values ('ZAP', 'Zappa Records');

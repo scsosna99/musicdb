@@ -3352,3 +3352,8 @@ insert into artist values (3579, 'Silbermond', NULL, 'Silbermond');
 insert into artist values (3580, 'Radwimps', NULL, 'Radwimps');
 insert into artist values (3581, 'Rammstein', NULL, 'Rammstein');
 insert into artist values (3582, 'Ishino', 'Mako', 'Mako Ishino');
+insert into artist values (3583, 'Eilish', 'Billie', 'Billie Eilish');
+insert into artist values (3584, 'Del Rey', 'Lana', 'Lana Del Rey');
+insert into artist values (3585, 'FKA Twigs', NULL, 'FKA Twigs');
+insert into artist values (3596, 'Vampire Weekend', NULL, 'Vampire Weekend');
+insert into artist values (3597, 'Igor', NULL, 'Igor');

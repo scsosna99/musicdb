@@ -82,3 +82,15 @@ insert into song values (1966, 14, '恋のサマー・ダンス', '04:19', NULL)
 insert into song values (1966, 15, 'バーニング・ラブ', '03:50', NULL);
 insert into song values (1966, 16, 'めぐり逢い', '05:37', NULL);
 insert into song values (1966, 17, 'ガラスの観覧車', '04:29', NULL);
+insert into song values (1970, 1, 'Igor''s Theme', '03:20', NULL);
+insert into song values (1970, 2, 'Eafquake', '03:10', NULL);
+insert into song values (1970, 3, 'I Think', '03:32', NULL);
+insert into song values (1970, 4, 'Exactly What You Run from You End Up Chasing', '04:00', NULL);
+insert into song values (1970, 5, 'Running Out of Time', '02:57', NULL);
+insert into song values (1970, 6, 'New Magic Wand', '03:15', NULL);
+insert into song values (1970, 7, 'Boy Is a Gun, A', '03:30', NULL);
+insert into song values (1970, 8, 'Puppet', '02:59', NULL);
+insert into song values (1970, 9, 'What''s Good', '03:25', NULL);
+insert into song values (1970, 10, 'Gone, Gone / Thank You', '06:15', NULL);
+insert into song values (1970, 11, 'I Don''t Love You anymore', '02:41', NULL);
+insert into song values (1970, 12, 'Are We Still Friends?', '04:25', NULL);
