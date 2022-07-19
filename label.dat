@@ -599,3 +599,8 @@ insert into cd_label values ('VMI', 'Victor Musical Industries');
 insert into cd_label values ('DRI', 'Darkroom/Interscope');
 insert into cd_label values ('YTR', 'Young Turn Recordings');
 insert into cd_label values ('ZAP', 'Zappa Records');
+insert into cd_label values ('EMU', 'Emma Productions/Universal Music France');
+insert into cd_label values ('YOT', 'Yotanka Music');
+insert into cd_label values ('SNY', 'Sony Music Entertainment');
+insert into cd_label values ('SND', 'Sony Discos');
+insert into cd_label values ('WMN', 'World Music Network');

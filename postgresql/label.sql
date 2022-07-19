@@ -4,7 +4,7 @@ ALTER TABLE cd_label RENAME TO cd_label_old;
 CREATE TABLE cd_label
 (
 	label_code VARCHAR(3)		NOT NULL	PRIMARY KEY,
-	label_name VARCHAR(35)		NOT NULL
+	label_name VARCHAR(40)		NOT NULL
 );
 
 

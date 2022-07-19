@@ -245,3 +245,14 @@ insert into song values (1954, 7, 'A Hora E A Vez Do Cabelo Nascer', '03:34', NU
 insert into song values (1954, 8, 'Rua Augusta', '04:07', NULL);
 insert into song values (1954, 9, 'Mutantes E Seus Cometas No Pa', '09:54', NULL);
 insert into song values (1954, 10, 'Todo Mundo Pastou II', '02:25', NULL);
+insert into song values (1988, 1, 'Dom Quixote', '03:55', NULL);
+insert into song values (1988, 2, 'Não Vá Se Perder Por Aí', '03:16', NULL);
+insert into song values (1988, 3, 'Dia 36', '04:02', NULL);
+insert into song values (1988, 4, 'Dois Mil E Um', '03:58', NULL);
+insert into song values (1988, 5, 'Algo Mais', '02:39', NULL);
+insert into song values (1988, 6, 'Fuga No II', '03:43', NULL);
+insert into song values (1988, 7, 'Banho de Lua (Tintarella di Luna)', '03:41', NULL);
+insert into song values (1988, 8, 'Rita Lee', '03:10', NULL);
+insert into song values (1988, 9, 'Mágica', '04:38', NULL);
+insert into song values (1988, 10, 'Qualquer Bobagem', '04:37', NULL);
+insert into song values (1988, 11, 'Caminhante Notorno', '05:12', NULL);
